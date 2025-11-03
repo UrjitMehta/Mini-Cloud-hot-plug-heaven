@@ -1,0 +1,12 @@
+
+---
+
+# Step-by-step HOW-TO (practical checklist)
+
+### 1. Create remote GitHub repo
+- Create new repo `hot-plug-heaven` on GitHub (private/public as you wish).
+- Locally:
+  ```bash
+  git init
+  git remote add origin https://github.com/<you>/hot-plug-heaven.git
+  git checkout -b dev
