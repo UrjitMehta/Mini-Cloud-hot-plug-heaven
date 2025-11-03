@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# Data and logs (do NOT commit large datasets)
+*.csv
+*.db
+*.sqlite
+*.log
+data/
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret files
+*.pem
+*.key

@@ -1,0 +1,10 @@
+{
+  "cpu_usage": 0,
+  "cpu_count": 4,
+  "allocations": {
+    "A": "CPU0, CPU1",
+    "B": "CPU2",
+    "C": "CPU3"
+  },
+  "timestamp": "00:00:00"
+}
