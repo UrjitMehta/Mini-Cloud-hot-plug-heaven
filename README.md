@@ -105,12 +105,19 @@ The UI also maintains an in-memory rolling activity buffer.
 ## Directory Structure
 
 project/
+
 │
+
 ├── controller.py(windows side)
+
 ├── agent_instance.py
+
 ├── worker.py
+
 ├── agents.json
+
 ├── README.md
+
 └── alloc_log.db  (auto-created)
 
 ## Notes
