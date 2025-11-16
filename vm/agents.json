@@ -1,0 +1,7 @@
+{
+  "controller": "http://192.168.29.200:5000",
+  "agents": [
+    { "name": "agentA", "port": 8001, "cores": 2, "offset": 0 },
+    { "name": "agentB", "port": 8002, "cores": 2, "offset": 2 }
+  ]
+}

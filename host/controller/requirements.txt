@@ -1,4 +1,4 @@
-requests
-colorama
-Flask  
-matplotlib
+Flask 
+requests 
+sqlite3-binary 
+psutil
